@@ -1,0 +1,187 @@
+.logo-web {
+  color: #2196f3;
+  font-family: "Raleway", sans-serif;
+  font-style: 900;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  word-spacing: inherit;
+}
+
+.logo-studio {
+  color: black;
+  font-family: "Raleway", sans-serif;
+  font-style: 900;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  word-spacing: inherit;
+}
+
+.navigation-list {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  color: black;
+}
+
+.navigation-list:hover,
+.navigation-list:focus {
+  color: #2196f3;
+}
+
+.navigation-list-portfolio {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #212121;
+}
+.navigation-list-portfolio:hover,
+.navigation-list-portfolio:focus {
+  background: #2196f3;
+  color: white;
+}
+
+.address-tel:hover,
+.address-tel:focus,
+.address-mail:hover,
+.address-mail:focus {
+  color: #2196f3;
+}
+
+.address-tel,
+.address-mail {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  color: #757575;
+}
+
+.address-map-footer,
+.address-tel-footer,
+.address-mail-footer {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: black;
+}
+
+.hero-baner {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1, 363;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+  color: black;
+}
+
+.hero-button {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.875;
+  background: #2196f3;
+  color: wheat;
+}
+
+.benefits-item-heading {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.benefits-item-text {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.work-heading,
+.team-heading {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.666;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.team-heading-item {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.185;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.team-text-item {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.185;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.main-portfolio-heading {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.main-portfolio-text {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.875;
+  /* identical to box height, or 187% */
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
