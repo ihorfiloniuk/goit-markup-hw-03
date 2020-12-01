@@ -43,6 +43,7 @@ ol {
 }
 .header .address-nav {
   margin-left: auto;
+  margin-right: 50px;
 }
 .logo-web {
   color: #2196f3;
