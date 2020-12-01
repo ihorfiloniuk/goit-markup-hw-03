@@ -22,6 +22,11 @@ ol {
   padding: 0;
 }
 
+/*======HEDER=====*/
+.heder {
+  display: flex;
+}
+
 .logo-web {
   color: #2196f3;
   font-family: "Raleway", sans-serif;
