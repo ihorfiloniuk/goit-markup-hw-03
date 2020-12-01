@@ -64,10 +64,6 @@ ol {
   word-spacing: inherit;
 }
 
-.navigation-list:not(:last-child) {
-  margin-right: 50px;
-}
-
 .navigation-list {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -75,6 +71,7 @@ ol {
   font-size: 14px;
   line-height: 1.142;
   color: black;
+  margin-right: 50px;
 }
 
 .navigation-list:hover,
