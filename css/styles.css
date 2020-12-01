@@ -64,7 +64,7 @@ ol {
   word-spacing: inherit;
 }
 
-.navigation-list:not(:last-child) {
+.navigation-list-item:not(:last-child) {
   margin-right: 50px;
 }
 .navigation-list {
