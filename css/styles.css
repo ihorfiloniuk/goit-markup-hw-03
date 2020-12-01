@@ -25,6 +25,11 @@ ol {
 /*======HEDER=====*/
 .header {
   display: flex;
+  align-items: center;
+}
+
+.navigation {
+  display: flex;
 }
 
 .logo-web {
