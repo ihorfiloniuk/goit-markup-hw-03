@@ -30,6 +30,7 @@ ol {
 
 .navigation {
   display: flex;
+  align-items: center;
 }
 
 .logo-web {
