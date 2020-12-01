@@ -33,6 +33,10 @@ ol {
   align-items: center;
 }
 
+.navigation-list-header {
+  display: flex;
+  align-items: center;
+}
 .logo-web {
   color: #2196f3;
   font-family: "Raleway", sans-serif;
