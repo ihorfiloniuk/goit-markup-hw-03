@@ -28,7 +28,7 @@ ol {
 }
 
 /*======HEDER=====*/
-.header {
+.header .container {
   display: flex;
   align-items: center;
   width: 1600px;
