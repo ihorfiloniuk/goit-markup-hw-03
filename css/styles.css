@@ -37,6 +37,11 @@ ol {
   display: flex;
   align-items: center;
 }
+
+.header .logo-studio {
+  margin-right: 93px;
+}
+
 .logo-web {
   color: #2196f3;
   font-family: "Raleway", sans-serif;
