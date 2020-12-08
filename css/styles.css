@@ -193,6 +193,11 @@ ol {
   color: wheat;
   display: block;
   margin: 0 auto;
+
+  color: var(--button-color-title);
+  background-color: var(--button-background-color);
+  cursor: pointer;
+  padding: 10px 32px;
 }
 .hero-button:hover,
 .hero-button:focus,
@@ -200,7 +205,7 @@ ol {
   color: var(--primery-text-color);
 }
 
-/*........АКЦЕНТИ В ЧОМ МЫ СИЛЬНЫ.....*/
+/*........АКЦЕНТИ В ЧЁМ МЫ СИЛЬНЫ.....*/
 
 .benefits-list,
 .work-list,
