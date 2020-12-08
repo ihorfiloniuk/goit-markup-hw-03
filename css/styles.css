@@ -362,7 +362,17 @@ ol {
   font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
-  color: black;
+  color: var(--accent-color-footer);
+}
+.logo-studio-footer {
+  font-family: "Raleway", sans-serif;
+  font-style: 900;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  word-spacing: inherit;
+  color: var(--accent-color-footer);
 }
 
 /*........ПОРТФОЛИО...........*/
