@@ -257,6 +257,15 @@ ol {
   padding-bottom: 94px;
 }
 
+.work-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.work-item-foto:not(:last-child) {
+  margin-right: 30px;
+}
+
 .work-heading {
   font-family: "Roboto", sans-serif;
   font-style: normal;
