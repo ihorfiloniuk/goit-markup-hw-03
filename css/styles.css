@@ -202,6 +202,8 @@ ol {
   color: #757575;
 }
 
+/* ......ЧЕМ МЫ ЗАНИМАЕМСЯ......*/
+
 .work-heading,
 .team-heading {
   font-family: "Roboto", sans-serif;
@@ -213,6 +215,8 @@ ol {
   letter-spacing: 0.03em;
   color: #212121;
 }
+
+/*........НАША КОМАНДА........*/
 
 .team-heading-item {
   font-family: "Roboto", sans-serif;
