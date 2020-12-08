@@ -253,7 +253,26 @@ ol {
 
 /* ......ЧЕМ МЫ ЗАНИМАЕМСЯ......*/
 
-.work-heading,
+.work {
+  padding-bottom: 94px;
+}
+
+.work-heading {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.666;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+
+  min-width: 377px;
+  margin-bottom: 50px;
+}
+
+/*........НАША КОМАНДА........*/
+
 .team-heading {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -264,8 +283,6 @@ ol {
   letter-spacing: 0.03em;
   color: #212121;
 }
-
-/*........НАША КОМАНДА........*/
 
 .team-heading-item {
   font-family: "Roboto", sans-serif;
