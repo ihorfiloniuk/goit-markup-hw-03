@@ -1,3 +1,23 @@
+:root {
+  --primery-text-color: #212121;
+  --secondary-text-color: #757575;
+  --accent-color: #2196f3;
+  --logo-color-heder: #000000;
+  --logo-color-footer: #ffffff;
+  --hero-color-title: #ffffff;
+  --button-color-title: #ffffff;
+  --accent-color-footer: #ffffff;
+  --address-color-footer: rgba(255, 255, 255, 0.6);
+  --primery-background-color: #ffffff;
+  --section-background-color: #f5f4fa;
+  --hero-background-color: #2f303a;
+  --button-background-color: #2196f3;
+  --footer-background-color: #2f303a;
+  --button-color-shadow: rgba(0, 0, 0, 0.15);
+  --button-background-color-portfolio: #f5f4fa;
+  --border-color-pictures: #eeeeee;
+  --pictures-background-color: #ffffff;
+
 h1,
 h2,
 h3,
@@ -232,6 +252,8 @@ ol {
 
 /*........ФУТЕР..........*/
 
+.footer-all {
+}
 .address-map-footer,
 .address-tel-footer,
 .address-mail-footer {
