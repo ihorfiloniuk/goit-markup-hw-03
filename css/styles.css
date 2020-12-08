@@ -302,6 +302,14 @@ ol {
   margin-bottom: 50px;
 }
 
+.team-list {
+  display: flex;
+}
+
+.team-item:not(:last-child) {
+  margin-right: 30px;
+}
+
 .team-heading-item {
   font-family: "Roboto", sans-serif;
   font-style: normal;
