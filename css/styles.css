@@ -282,6 +282,12 @@ ol {
 
 /*........НАША КОМАНДА........*/
 
+.team {
+  background-color: var(--section-background-color);
+  padding-top: 82px;
+  padding-bottom: 106px;
+}
+
 .team-heading {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -291,6 +297,9 @@ ol {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+
+  min-width: 264px;
+  margin-bottom: 50px;
 }
 
 .team-heading-item {
