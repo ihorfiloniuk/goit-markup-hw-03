@@ -207,6 +207,11 @@ ol {
 
 /*........АКЦЕНТИ В ЧЁМ МЫ СИЛЬНЫ.....*/
 
+.benefits-main {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .benefits-list,
 .work-list,
 .team-list {
