@@ -1,3 +1,13 @@
+/* цвет основного текста #212121 */
+/* цвет вторичного текста #757575 */
+/* цвет акцента  #2196F3 */
+/* цвет логотипа в хедере #000000 */
+/* цвет логотипа в футере #FFFFFF */
+/* цвет акцента в футере #FFFFFF */
+/* цвет адреса в футере rgba(255, 255, 255, 0.6)*/
+/* цвет тени кнопки в герои rgba(0, 0, 0, 0.15)*/
+/* цвет кнопок в портфолио #f5f4fa */
+
 :root {
   --primery-text-color: #212121;
   --secondary-text-color: #757575;
@@ -254,6 +264,9 @@ ol {
 /*........ФУТЕР..........*/
 
 .footer-all {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  /*background-color: var(--footer-background-color);*/
 }
 .address-map-footer,
 .address-tel-footer,
