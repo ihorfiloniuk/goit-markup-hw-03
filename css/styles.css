@@ -365,12 +365,6 @@ ol {
 }
 
 .address-map-footer {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.714;
-  letter-spacing: 0.03em;
   color: var(--accent-color-footer);
 }
 
