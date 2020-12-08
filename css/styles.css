@@ -137,7 +137,7 @@ ol {
   color: black;
 }
 
-/* =======HERO=======*/
+/*........HERO......БОНЕР....*/
 
 .hero-baner {
   font-family: "Roboto", sans-serif;
@@ -172,6 +172,8 @@ ol {
   display: block;
   margin: 0 auto;
 }
+
+/*........АКЦЕНТИ В ЧОМУ МИ СИЛЬНІ.....*/
 
 .benefits-list,
 .work-list,
@@ -235,6 +237,8 @@ ol {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
+/*........ПОРТФОЛИО...........*/
 
 .main-portfolio-heading {
   font-family: "Roboto", sans-serif;
