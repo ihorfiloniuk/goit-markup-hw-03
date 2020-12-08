@@ -235,7 +235,9 @@ ol {
   line-height: 1.142;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #212121;
+
+  color: var(--primery-text-color);
+  margin-bottom: 10px;
 }
 
 .benefits-item-text {
@@ -245,7 +247,8 @@ ol {
   font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
-  color: #757575;
+
+  color: var(--secondary-text-color);
 }
 
 /* ......ЧЕМ МЫ ЗАНИМАЕМСЯ......*/
