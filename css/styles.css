@@ -160,6 +160,10 @@ ol {
 
 /*........HERO......БОНЕР....*/
 
+.hero {
+  background: #2f303a;
+}
+
 .hero-baner {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -176,10 +180,6 @@ ol {
   height: 600px;
   left: 80px;
   top: 80px;
-}
-
-.hero-all-index {
-  background: #2f303a;
 }
 
 .hero-button {
