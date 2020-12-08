@@ -62,8 +62,11 @@ ol {
 .header .container {
   display: flex;
   align-items: center;
-  width: 1600px;
-  margin: 0 auto;
+}
+.header {
+  padding-top: 24px;
+  padding-bottom: 25px;
+  /*border-bottom: 1px solid var(--secondary-text-color);*/
 }
 
 .navigation {
