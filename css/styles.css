@@ -168,6 +168,12 @@ ol {
   color: wheat;
 }
 
+.benefits-list,
+.work-list,
+.team-list {
+  display: flex;
+  align-items: center;
+}
 .benefits-item-heading {
   font-family: "Roboto", sans-serif;
   font-style: normal;
