@@ -125,18 +125,6 @@ ol {
   color: #757575;
 }
 
-.address-map-footer,
-.address-tel-footer,
-.address-mail-footer {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.714;
-  letter-spacing: 0.03em;
-  color: black;
-}
-
 /*........HERO......БОНЕР....*/
 
 .hero-baner {
@@ -240,6 +228,20 @@ ol {
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
+}
+
+/*........ФУТЕР..........*/
+
+.address-map-footer,
+.address-tel-footer,
+.address-mail-footer {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: black;
 }
 
 /*........ПОРТФОЛИО...........*/
