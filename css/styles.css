@@ -161,25 +161,26 @@ ol {
 /*........HERO......БОНЕР....*/
 
 .hero {
-  background: #2f303a;
+  background-color: var(--hero-background-color);
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
-.hero-baner {
+.hero-title {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 1, 363;
+  line-height: 1.364;
+  /* or 136% */
+
+  min-width: 696px;
+  height: 120px;
+  text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  text-align: center;
-  color: #ffff;
-  padding-top: 200px;
 
-  width: 1600px;
-  height: 600px;
-  left: 80px;
-  top: 80px;
+  color: var(--hero-color-title);
+  margin-bottom: 30px;
 }
 
 .hero-button {
