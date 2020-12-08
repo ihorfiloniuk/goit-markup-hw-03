@@ -218,6 +218,15 @@ ol {
   display: flex;
   align-items: center;
 }
+
+.benefits-item {
+  width: 270px;
+}
+
+.benefits-item:not(:last-child) {
+  margin-right: 30px;
+}
+
 .benefits-item-heading {
   font-family: "Roboto", sans-serif;
   font-style: normal;
