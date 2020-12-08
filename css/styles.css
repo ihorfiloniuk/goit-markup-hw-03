@@ -194,6 +194,11 @@ ol {
   display: block;
   margin: 0 auto;
 }
+.hero-button:hover,
+.hero-button:focus,
+.hero-button:active {
+  color: var(--primery-text-color);
+}
 
 /*........АКЦЕНТИ В ЧОМ МЫ СИЛЬНЫ.....*/
 
